@@ -17,6 +17,8 @@
     <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
     <PackageCertificateKeyFile>UniversalHub.Windows_StoreKey.pfx</PackageCertificateKeyFile>
     <PackageCertificateThumbprint>188D2B68DE6370BDB8C0D1776073DE4A5AF9AFAC</PackageCertificateThumbprint>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
