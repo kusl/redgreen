@@ -53,13 +53,13 @@
                         AutomationProperties.Name="Back"
                         AutomationProperties.AutomationId="BackButton"
                         AutomationProperties.ItemType="Navigation Button"/>
-                    <TextBlock x:Name="pageTitle" x:Uid="Header" Text="application name" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                    <TextBlock x:Name="pageTitle" x:Uid="Header" Text="red and green" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         VerticalAlignment="Top" IsHitTestVisible="false" TextWrapping="NoWrap" />
                 </Grid>
             </Hub.Header>
-            <HubSection Width="780" Margin="0,0,80,0">
+            <HubSection Width="780" Margin="0,0,80,0" Header="testing blend">
                 <HubSection.Background>
-                    <ImageBrush ImageSource="Assets/MediumGray.png" Stretch="UniformToFill" />
+                	<ImageBrush ImageSource="ms-appx:/Assets/MediumGray.png" Stretch="UniformToFill"/>
                 </HubSection.Background>
             </HubSection>
             <HubSection Width="500" x:Uid="Section1Header" Header="Section 1">
