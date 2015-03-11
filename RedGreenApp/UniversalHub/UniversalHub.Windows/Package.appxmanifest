@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="53522Model.DataStructures" Publisher="CN=904999E3-5C7D-49B3-A2CE-941E6EE06857" Version="1.1.0.0" />
+  <Identity Name="53522Model.DataStructures" Publisher="CN=904999E3-5C7D-49B3-A2CE-941E6EE06857" Version="1.1.0.1" />
   <Properties>
     <DisplayName>DataStructures</DisplayName>
     <PublisherDisplayName>Model</PublisherDisplayName>
